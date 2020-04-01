@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://lbattich.github.io/testmanubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://lbattich.github.io/testmanubot/v/5827324836eab91b5feac4b8f59970107ad8292d/" />
+  <link rel="alternate" type="text/html" href="https://lbattich.github.io/testmanubot/v/4e5bad45fd36a740cf096ec172f286e87b3b2d0f/" />
 
-  <meta name="manubot_html_url_versioned" content="https://lbattich.github.io/testmanubot/v/5827324836eab91b5feac4b8f59970107ad8292d/" />
+  <meta name="manubot_html_url_versioned" content="https://lbattich.github.io/testmanubot/v/4e5bad45fd36a740cf096ec172f286e87b3b2d0f/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://lbattich.github.io/testmanubot/v/5827324836eab91b5feac4b8f59970107ad8292d/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://lbattich.github.io/testmanubot/v/4e5bad45fd36a740cf096ec172f286e87b3b2d0f/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Testing this thingy
 
 <small><em>
 This manuscript
-([permalink](https://lbattich.github.io/testmanubot/v/5827324836eab91b5feac4b8f59970107ad8292d/))
+([permalink](https://lbattich.github.io/testmanubot/v/4e5bad45fd36a740cf096ec172f286e87b3b2d0f/))
 was automatically generated
-from [lbattich/testmanubot@5827324](https://github.com/lbattich/testmanubot/tree/5827324836eab91b5feac4b8f59970107ad8292d)
+from [lbattich/testmanubot@4e5bad4](https://github.com/lbattich/testmanubot/tree/4e5bad45fd36a740cf096ec172f286e87b3b2d0f)
 on April 1, 2020.
 </em></small>
 
@@ -139,6 +139,11 @@ on April 1, 2020.
 ## Abstract {.page_break_before}
 
 
+
+
+# Introduction
+
+This is an example. @doi:10.1007/s11229-020-02602-6 argue that x and y.
 
 
 ## References {.page_break_before}
