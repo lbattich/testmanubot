@@ -1,5 +1,5 @@
 ---
-title: "Manuscript Title"
+title: "Testing this thingy"
 keywords:
   - markdown
   - publishing
@@ -7,9 +7,9 @@ keywords:
 lang: en-US
 authors:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
+    github: lbattich
+    name: Lucas
+    initials: L
     orcid: XXXX-XXXX-XXXX-XXXX
     twitter: johndoe
     email: john.doe@something.com
