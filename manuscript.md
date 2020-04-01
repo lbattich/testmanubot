@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://lbattich.github.io/testmanubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://lbattich.github.io/testmanubot/v/909268526a1e94f27bc554fcd9bc3d88dd7e9b90/" />
+  <link rel="alternate" type="text/html" href="https://lbattich.github.io/testmanubot/v/f1cb510355351efd21e53b158d8fd9ef2b9bae43/" />
 
-  <meta name="manubot_html_url_versioned" content="https://lbattich.github.io/testmanubot/v/909268526a1e94f27bc554fcd9bc3d88dd7e9b90/" />
+  <meta name="manubot_html_url_versioned" content="https://lbattich.github.io/testmanubot/v/f1cb510355351efd21e53b158d8fd9ef2b9bae43/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://lbattich.github.io/testmanubot/v/909268526a1e94f27bc554fcd9bc3d88dd7e9b90/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://lbattich.github.io/testmanubot/v/f1cb510355351efd21e53b158d8fd9ef2b9bae43/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://lbattich.github.io/testmanubot/v/909268526a1e94f27bc554fcd9bc3d88dd7e9b90/))
+([permalink](https://lbattich.github.io/testmanubot/v/f1cb510355351efd21e53b158d8fd9ef2b9bae43/))
 was automatically generated
-from [lbattich/testmanubot@9092685](https://github.com/lbattich/testmanubot/tree/909268526a1e94f27bc554fcd9bc3d88dd7e9b90)
+from [lbattich/testmanubot@f1cb510](https://github.com/lbattich/testmanubot/tree/f1cb510355351efd21e53b158d8fd9ef2b9bae43)
 on April 1, 2020.
 </em></small>
 
