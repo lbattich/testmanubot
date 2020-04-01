@@ -1,6 +1,6 @@
 ---
 author-meta:
-- John Doe
+- Lucas
 - Jane Roe
 bibliography:
 - content/manual-references.json
@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Testing this thingy" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Testing this thingy" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Testing this thingy" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Testing this thingy" />
 
   <meta name="dc.date" content="2020-04-01" />
 
@@ -39,7 +39,7 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Lucas" />
 
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://lbattich.github.io/testmanubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://lbattich.github.io/testmanubot/v/f1cb510355351efd21e53b158d8fd9ef2b9bae43/" />
+  <link rel="alternate" type="text/html" href="https://lbattich.github.io/testmanubot/v/5827324836eab91b5feac4b8f59970107ad8292d/" />
 
-  <meta name="manubot_html_url_versioned" content="https://lbattich.github.io/testmanubot/v/f1cb510355351efd21e53b158d8fd9ef2b9bae43/" />
+  <meta name="manubot_html_url_versioned" content="https://lbattich.github.io/testmanubot/v/5827324836eab91b5feac4b8f59970107ad8292d/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://lbattich.github.io/testmanubot/v/f1cb510355351efd21e53b158d8fd9ef2b9bae43/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://lbattich.github.io/testmanubot/v/5827324836eab91b5feac4b8f59970107ad8292d/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -93,7 +93,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Testing this thingy
 ...
 
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://lbattich.github.io/testmanubot/v/f1cb510355351efd21e53b158d8fd9ef2b9bae43/))
+([permalink](https://lbattich.github.io/testmanubot/v/5827324836eab91b5feac4b8f59970107ad8292d/))
 was automatically generated
-from [lbattich/testmanubot@f1cb510](https://github.com/lbattich/testmanubot/tree/f1cb510355351efd21e53b158d8fd9ef2b9bae43)
+from [lbattich/testmanubot@5827324](https://github.com/lbattich/testmanubot/tree/5827324836eab91b5feac4b8f59970107ad8292d)
 on April 1, 2020.
 </em></small>
 
@@ -113,11 +113,11 @@ on April 1, 2020.
 
 
 
-+ **John Doe**<br>
++ **Lucas**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [lbattich](https://github.com/lbattich)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [johndoe](https://twitter.com/johndoe)<br>
   <small>
