@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/lbattich/testmanubot/tree/gh-pages) branch hosts the contents of this directory at <https://lbattich.github.io/testmanubot/>.
-The permalink for this webpage version is <https://lbattich.github.io/testmanubot/v/5827324836eab91b5feac4b8f59970107ad8292d/>.
+The permalink for this webpage version is <https://lbattich.github.io/testmanubot/v/4e5bad45fd36a740cf096ec172f286e87b3b2d0f/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://lbattich.github.io/testmanubot/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`5827324836eab91b5feac4b8f59970107ad8292d`](https://github.com/lbattich/testmanubot/commit/5827324836eab91b5feac4b8f59970107ad8292d).
+[`4e5bad45fd36a740cf096ec172f286e87b3b2d0f`](https://github.com/lbattich/testmanubot/commit/4e5bad45fd36a740cf096ec172f286e87b3b2d0f).
